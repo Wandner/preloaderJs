@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://wandner.github.io/preloaderJs/loading.gif';
+svgImage.src = 'https://wandner.github.io/preloaderJs/ripples.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
